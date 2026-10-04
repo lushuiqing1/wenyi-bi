@@ -1,0 +1,4 @@
+interface:
+  display_name: "文艺逼表达转换"
+  short_description: "把日常话改成自然顺口的多作者文艺腔，支持五种口味，强度、作者数和长度分别控制"
+  default_prompt: "请用 $wenyi-bi 把‘我想你了’改成冷面自嘲的文艺表达，带3位作者，自然顺口。"
